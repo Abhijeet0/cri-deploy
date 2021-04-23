@@ -13,7 +13,7 @@ header('X-Robots-Tag: noindex, nofollow', true);
 require('functions.php');
 require('randomagent.php');
 
-$url = 'https://www.cricbuzz.com/live-cricket-scores/35632/rr-vs-dc-7th-match-indian-premier-league-2021';
+$url = 'https://www.cricbuzz.com/live-cricket-scores/35668/pbks-vs-mi-17th-match-indian-premier-league-2021';
 $trim = '';
 $match_url = '';
 $msg = [];
